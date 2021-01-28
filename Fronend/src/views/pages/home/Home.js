@@ -2,7 +2,7 @@ import React from 'react'
 
 //Components
 
-import Header from "./HomeHeader"
+import Header from "../../../containers/HomeHeader"
 import Body from "./HomeBody"
 
 
